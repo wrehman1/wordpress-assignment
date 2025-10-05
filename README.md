@@ -53,5 +53,3 @@ Docker is an free and open-source containerization platform used for developing,
 ![alt text](<wordpress-running on ec2 instance ip.png>)
 
 ![alt text](wordpress-running.png)
-
-
